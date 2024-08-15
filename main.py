@@ -1,3 +1,6 @@
-b = 5  #variable creation in code
-a = 3
+for i in range(8):
+    print("Word")
+
+a, b = 9, 8
+
 
