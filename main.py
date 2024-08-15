@@ -1,3 +1,2 @@
-b = 5  #variable creation in code
-a = 3
+print("I conflict")
 
